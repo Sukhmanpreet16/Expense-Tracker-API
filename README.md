@@ -33,7 +33,7 @@ A backend API for an Expense Tracker built using **Django** and **Django REST Fr
 
 ---
 
-### 📊 Analytics
+### Analytics
 
 | Method | Endpoint                | Description                      |
 |--------|-------------------------|----------------------------------|
@@ -41,7 +41,7 @@ A backend API for an Expense Tracker built using **Django** and **Django REST Fr
 
 ---
 
-## 🚀 Getting Started (Run Locally)
+## Getting Started (Run Locally)
 
 ```bash
 git clone https://github.com/Sukhmanpreet16/Expense-Tracker-API.git
