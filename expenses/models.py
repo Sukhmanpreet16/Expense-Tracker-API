@@ -4,11 +4,11 @@ import uuid
 
 class Expense(models.Model):
     CATEGORY_CHOICES = [
-        ("Food", "Food"),
-        ("Movies", "Movies"),
-        ("Travel", "Travel"),
-        ("Bills", "Bills"),
-        ("Other", "Other"),
+        ("Food", "food"),
+        ("Movies", "movies"),
+        ("Travel", "travel"),
+        ("Bills", "bills"),
+        ("Other", "other"),
     ]
 
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
